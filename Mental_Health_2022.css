@@ -1,0 +1,21 @@
+@charset "utf-8";
+@import url(https://use.typekit.net/efj7gzu.css);
+
+h1 {
+	color: #a2863d;
+	font-family: trajan-pro-3;
+	text-shadow: 3px 3px 8px #000000;
+	text-align: center;
+}
+h2 {
+	color: #FFFFFF;
+	font-family: trajan-pro-3;
+	text-shadow: 3px 3px 8px #000000;
+}
+p {
+	color: #FFFFFF;
+	font-family: calibri;
+}
+body {
+	background-color: #1e345d;
+}
